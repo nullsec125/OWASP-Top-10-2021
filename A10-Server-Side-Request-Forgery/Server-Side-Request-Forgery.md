@@ -1,6 +1,6 @@
 # A10 Server-Side Request Forgery  
 
-## 📑 Metadata  
+## Metadata  
 - **OWASP Category (2021):** A10 Server-Side Request Forgery  
 - **PortSwigger Link:** [What is SSRF (Server-side request forgery)? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security/ssrf)  
 
