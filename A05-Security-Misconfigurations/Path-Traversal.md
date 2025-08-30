@@ -2,7 +2,7 @@
 
 ## Metadata
 - **OWASP Category (2021):** A05 Security Misconfigurations
-- **PortSwigger Link:** What is path traversal, and how to prevent it? | Web Security Academy
+- **PortSwigger Link:** [What is path traversal, and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/file-path-traversal)
 
 ---
 
