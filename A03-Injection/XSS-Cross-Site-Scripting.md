@@ -3,13 +3,13 @@
 ---
 
 ## Metadata
-> - **OWASP Category (2021):** A03 Injection  
-> - **PortSwigger Link:** [What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting)
->
-> - **Sub-Topics:**
->   - Reflected XSS - Malicious script comes from the current HTTP request - visiting the URL executes the script   
->   - Stored XSS - Malicious script is received from an untrusted source - and is included within later HTTP responses untrusted. (Comments on blog post, contact details on an order, etc.)  
->   - DOM-based - Application contains client-side JS that processes data from an untrusted source via writing the data back to the DOM  
+ - **OWASP Category (2021):** A03 Injection  
+ - **PortSwigger Link:** [What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting)
+
+ - **Sub-Topics:**
+   - Reflected XSS - Malicious script comes from the current HTTP request - visiting the URL executes the script   
+   - Stored XSS - Malicious script is received from an untrusted source - and is included within later HTTP responses untrusted. (Comments on blog post, contact details on an order, etc.)  
+   - DOM-based - Application contains client-side JS that processes data from an untrusted source via writing the data back to the DOM  
 
 ---
 
