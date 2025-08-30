@@ -6,7 +6,7 @@
 
 ---  
 
-## 🌿 Concept  
+## 💡 Concept  
 > -  Exploits vulnerable handling of the `Host` header in HTTP requests.  
 > -  The header is meant to specify the domain name of the server being accessed, but if the application trusts this value without validation, attackers can manipulate it for malicious purposes.  
 
