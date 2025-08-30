@@ -10,44 +10,48 @@ Each entry assumes a fundamental understanding of BurpSuite, and contains data f
 - Mitigations for the vulnerability
 - Potential cheat cheets/references
 
+
 ## Index
 
 ### A01 – Broken Access Control
-- [Broken Access Control](A01-Broken-Access-Control/A01-Broken-Access-Control.md)
+- [Broken Access Control](A01-Broken-Access-Control/Broken-Access-Control.md)
 
 ### A02 – Cryptographic Failures
-- [Cryptographic Failures](A02-Cryptographic-Failures/Cryptographic-Failures.md)
+- [Information Disclosure](A02-Cryptographic-Failures/Information-Disclosure.md)
+- [JWT Attacks](A02-Cryptographic-Failures/JWT-Attacks.md)
 
 ### A03 – Injection
-- [SQL Injection](A03-Injection/SQLi.md)
-- [Cross-Site Scripting (XSS)](A03-Injection/XSS.md)
-- [XML External Entities (XXE)](A03-Injection/XXE.md)
 - [Command Injection](A03-Injection/Command-Injection.md)
+- [NoSQL](A03-Injection/NoSQL.md)
+- [SQL Injection](A03-Injection/SQL-Injection.md)
+- [Server-Side Template Injection (SSTI)](A03-Injection/SSTI-Server-Side-Template-Injection.md)
+- [Cross-Site Scripting (XSS)](A03-Injection/XSS-Cross-Site-Scripting.md)
+- [XML External Entities (XXE)](A03-Injection/XXE-XML-External-Entities-Injection.md)
 
 ### A04 – Insecure Design
+- [Business Logic Vulnerabilities](A04-Insecure-Design/Business-Logic-Vulnerabilities.md)
 - [Race Conditions](A04-Insecure-Design/Race-Conditions.md)
-- [Business Logic Vulnerabilities](A04-Insecure-Design/Business-Logic-Vulns.md)
 
 ### A05 – Security Misconfigurations
-- [CORS](A05-Security-Misconfigurations/CORS.md)
-- [File Upload](A05-Security-Misconfigurations/File-Upload.md)
+- [CORS (Cross-Origin Resource Sharing)](A05-Security-Misconfigurations/CORS-Cross-Origin-Resource-Sharing.md)
+- [File Upload Vulnerabilities](A05-Security-Misconfigurations/File-Upload-Vulnerabilities.md)
+- [HTTP Host Header Attacks](A05-Security-Misconfigurations/HTTP-Host-Header-Attacks.md)
 - [Path Traversal](A05-Security-Misconfigurations/Path-Traversal.md)
 - [Web Cache Deception](A05-Security-Misconfigurations/Web-Cache-Deception.md)
 - [Web Cache Poisoning](A05-Security-Misconfigurations/Web-Cache-Poisoning.md)
 
-### A06 – Vulnerable + Outdated Components
-- [Notes](A06-Using-Components-with-Known-Vulnerabilities/Notes.md)
+### A06 – Vulnerable and Outdated Components
+- [Vulnerable and Outdated Components](A06-Vulnerable-and-Outdated-Components/Vulnerable-and-Outdated-Components.md)
 
 ### A07 – Identification & Authentication Failures
-- [OAuth](A07-Broken-Authentication/OAuth-Authentication.md)
-- [JWT](A07-Broken-Authentication/JWT-Attacks.md)
+- [OAuth Authentication](A07-Broken-Authentication/OAuth-Authentication.md)
 
 ### A08 – Software & Data Integrity Failures
-- [Prototype Pollution](A08-Software-and-Data-Integrity-Failures/Prototype-Pollution.md)
 - [Insecure Deserialization](A08-Software-and-Data-Integrity-Failures/Insecure-Deserialization.md)
+- [Prototype Pollution](A08-Software-and-Data-Integrity-Failures/Prototype-Pollution.md)
 
 ### A09 – Security Logging & Monitoring Failures
-- [Notes](A09-Insufficient-Logging-and-Monitoring/Notes.md)
+- [Security Logging and Monitoring](A09-Security-Logging-and-Monitoring/Security-Logging-and-Monitoring.md)
 
 ### A10 – Server-Side Request Forgery (SSRF)
-- [Notes](A10-SSRF/Notes.md)
+- [Server-Side Request Forgery](A10-Server-Side-Request-Forgery/Server-Side-Request-Forgery.md)
