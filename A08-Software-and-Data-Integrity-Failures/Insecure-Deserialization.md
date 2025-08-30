@@ -1,16 +1,15 @@
 # Insecure Deserialization  
 
-## 📑 Metadata  
+## Metadata  
 - **OWASP Category (2021):** A08 Software and Data Integrity  
 - **PortSwigger Link:** [Insecure deserialization | Web Security Academy ](https://portswigger.net/web-security/deserialization) 
 
 ---
-
-## 🌱 Concept  
+>  Serialization = converting objects into a storable/transmittable format (like byte streams, JSON, XML).  
+>  Deserialization = reconstructing objects from serialized data.  
+## 💡 Concept  
 - **What is it?**  
-> - Serialization = converting objects into a storable/transmittable format (like byte streams, JSON, XML).  
-> - Deserialization = reconstructing objects from serialized data.  
-> - **Insecure deserialization = occurs when untrusted data is deserialized without validation, allowing attackers to manipulate serialized objects and influence application logic.**  
+> - Insecure deserialization = occurs when untrusted data is deserialized without validation, allowing attackers to manipulate serialized objects and influence application logic.  
 
 - **Impact**  
 > - **Confidentiality:** Attackers may exfiltrate sensitive data via modified objects.  
@@ -51,6 +50,6 @@
 
 ---
 
-## 📚 Extras  
+## Extras  
 - **Cheat sheet / references:** [https://github.com/ambionics/phpggc?utm_source=chatgpt](https://github.com/ambionics/phpggc?utm_source=chatgpt)  
 
