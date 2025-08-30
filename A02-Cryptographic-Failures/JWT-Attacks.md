@@ -11,8 +11,8 @@
 ## 💡 Concept
 - **What is it?**  
 > Occurs when flaws in JWT implementation, misconfiguration, or weak key management allow attackers to forge/manipulate tokens. Exploits authentication or session mismanagement.  
-> JSON Web Tokens are compact, URL-safe formats for representing claims (used for authentication and access management).  
-> **JWTs are cryptographically signed to prevent tampering.**
+> * JSON Web Tokens are compact, URL-safe formats for representing claims (used for authentication and access management).  
+> * JWTs are cryptographically signed to prevent tampering.
 
 - **Impact:**  
 > - **Confidentiality:** Attacker may read or forge tokens to gain unauthorized access to sensitive user data.  
