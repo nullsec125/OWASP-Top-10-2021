@@ -72,7 +72,6 @@
 > - Parameterized queries (prepared statements) for when untrusted input appears as data within the query → string used must be a hard-coded constant  
 > - Whitelisting permitted values  
 > - Different logic to disallow the behavior  
-> - WAF  
 
 ---
 
