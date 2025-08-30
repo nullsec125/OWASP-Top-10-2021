@@ -2,7 +2,7 @@
 
 ## Metadata  
 - **OWASP Category (2021):** A08 Software and Data Integrity Failures  
-- **PortSwigger Link:** What is prototype pollution? | Web Security Academy  
+- **PortSwigger Link:** [What is prototype pollution? | Web Security Academy](https://portswigger.net/web-security/prototype-pollution)  
 
 ---
 
