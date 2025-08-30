@@ -1,3 +1,5 @@
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-blue)  
+
 I created this repository for anyone interested in having a single, "cheat-sheet" styled, reference page for each vulnerability on OWASP's Top 10 (2021) list.
 Hopefully this source of key details can help people become cohesive and grounded in honing Web Application PenTesting understanding. 
 
