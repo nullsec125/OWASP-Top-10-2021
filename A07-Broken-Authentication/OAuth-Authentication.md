@@ -2,7 +2,7 @@
 
 ## Metadata  
 - **OWASP Category (2021):** A07 Broken Authentication  
-- **PortSwigger Link:** OAuth 2.0 authentication vulnerabilities | Web Security Academy  
+- **PortSwigger Link:** [OAuth 2.0 authentication vulnerabilities | Web Security Academy](https://portswigger.net/web-security/oauth)  
 
 ---
 
