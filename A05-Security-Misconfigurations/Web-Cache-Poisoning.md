@@ -2,7 +2,7 @@
 
 ## Metadata
 - **OWASP Category (2021):** A05 Security Misconfigurations
-- **PortSwigger Link:** Web cache poisoning | Web Security Academy
+- **PortSwigger Link:** [Web cache poisoning | Web Security Academy](https://portswigger.net/web-security/web-cache-poisoning)
 
 ---
 
