@@ -1,6 +1,6 @@
 # Broken Access Control  
 
-- **OWASP Category (2021):** [A01 Broken Access Control](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)  
+- **OWASP Category (2021):** A01 Broken Access Control
 - **PortSwigger Link:** [Access control vulnerabilities and privilege escalation | Web Security Academy](https://portswigger.net/web-security/access-control)  
 
 ---
