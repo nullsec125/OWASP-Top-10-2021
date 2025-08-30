@@ -2,7 +2,7 @@
 
 ## Metadata  
 - **OWASP Category (2021):** A05 Security Misconfigurations  
-- **PortSwigger Link:** File uploads | Web Security Academy  
+- **PortSwigger Link:** [File uploads | Web Security Academy ](https://portswigger.net/web-security/file-upload) 
 
 ---
 
