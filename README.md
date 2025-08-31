@@ -2,19 +2,20 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Stars](https://img.shields.io/github/stars/nullsec125/OWASP-Top-10-2021?style=social)
 
+## ⚡ About This Repository
 
-I created this repository for anyone interested in having a single, "cheat-sheet" styled, reference page for each vulnerability on OWASP's Top 10 (2021) list.
-Hopefully this source of key details can help people become cohesive and grounded in honing Web Application PenTesting understanding. 
+A concise, hands-on reference for the **OWASP Top 10 (2021)** risks.  
+This repo helps **AppSec engineers, penetration testers, and bug bounty hunters** quickly reference and find:
 
-Each entry assumes a fundamental understanding of BurpSuite, and contains data from the relevant Portswigger rooms, and within each you can find:
 - What is the vulnerability
-- The CIA impact
+- The C.I.A. impact
 - Where to test for the vulnerability
 - Common payloads/tricks
 - How to identify the vulnerability
 - Mitigations for the vulnerability
 - Potential cheat cheets/references
-
+  
+ **Will be updated with a **2021 → 2025 mapping** when the new OWASP Top 10 is published.**
 
 ## Index
 
