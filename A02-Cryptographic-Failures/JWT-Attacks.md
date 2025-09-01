@@ -61,3 +61,4 @@
 
 ## Extras
 - Cheat sheet / references: [https://cheatsheetseries.owasp.org/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.html)
+- Wordlist of common JWT secrets: [https://github.com/wallarm/jwt-secrets/blob/master/jwt.secrets.list]([Wordlist of common JWT secrets](https://github.com/wallarm/jwt-secrets/blob/master/jwt.secrets.list))
